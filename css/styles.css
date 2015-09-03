@@ -186,7 +186,7 @@ section h2 {
 /**For the About me section**/
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background-image: url('../img/portfolio/dwade.jpg');
 }
 
 section.success a,
